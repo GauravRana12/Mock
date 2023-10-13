@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gaurav",
+      "email": "gau@gmail.com",
+      "password": "1235"
+    },
+    {
+      "name": "Gaurav",
+      "email": "gaur@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "tracker": [
+    {
+      "id": 1,
+      "type": "Income",
+      "category": "salary",
+      "amount": "10000",
+      "date": "2023-10-20"
+    },
+    {
+      "type": "expense",
+      "category": "shopping",
+      "amount": "10000",
+      "date": "2023-10-20",
+      "id": 2
+    },
+    {
+      "type": "expense",
+      "category": "housing",
+      "amount": "120000",
+      "date": "2023-10-14",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "category": "housing",
+      "amount": "1200",
+      "date": "2023-10-26",
+      "id": 4
+    },
+    {
+      "type": "expense",
+      "category": "shopping",
+      "amount": "445454",
+      "date": "2023-10-12",
+      "id": 5
+    },
+    {
+      "type": "expense",
+      "category": "housing",
+      "amount": "445454",
+      "date": "2023-10-12",
+      "id": 6
+    },
+    {
+      "type": "expense",
+      "category": "vehicle & transport",
+      "amount": "4454",
+      "date": "2023-10-12",
+      "id": 7
+    },
+    {
+      "type": "income",
+      "category": "gifts",
+      "amount": "44542",
+      "date": "2023-10-12",
+      "id": 8
+    },
+    {
+      "type": "income",
+      "category": "refunds",
+      "amount": "4454",
+      "date": "2023-10-12",
+      "id": 9
+    }
+  ]
+}
